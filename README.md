@@ -6,6 +6,8 @@ YESOD is a hardware retro-game project: a tiny **Dinosaur Runner** (inspired by 
 
 No HAL. No libraries. No OS. Just pure Z80 Assembly, raw I/O ports, and precise bit-banging.
 
+[![Watch on YouTube](https://img.youtube.com/vi/rzCK3ROISEs/maxresdefault.jpg)](https://www.youtube.com/watch?v=rzCK3ROISEs)
+
 ---
 
 ## Hardware Architecture
