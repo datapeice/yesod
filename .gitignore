@@ -1,0 +1,12 @@
+*.rel
+*.ihx
+*.lk
+*.lst
+*.map
+*.noi
+*.sym
+*.asm
+*.bin
+
+__pycache__/
+*.pyc
